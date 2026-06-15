@@ -4,13 +4,13 @@ export const personal = {
   tagline: "I craft clean, performant interfaces —",
   location: "Pune, India",
   availability: "Open to opportunities",
-  email: "rohitbhujbal3007@gmail.com",
-  phone: "+91 9529361962",
-  github: "https://github.com/Rohit-Bhujbal07",
-  linkedin: "https://www.linkedin.com/in/rohit-bhujbal-589811193",
+  email: "rohitbhujbal@email.com",
+  phone: "+91 XXXXX XXXXX",
+  github: "https://github.com/rohitbhujbal",
+  linkedin: "https://linkedin.com/in/rohitbhujbal",
   twitter: "https://twitter.com/rohitbhujbal",
   resume: "/Rohit_Bhujbal_Resume.pdf",
-  bio: "I build fast, accessible, and thoughtfully crafted web interfaces. With 2.8+ years of experience in React.js, I specialize in turning complex business requirements into clean, scalable frontend solutions — currently at Logicloom IT Solutions, building ERP systems for manufacturing companies.",
+  bio: "I build fast, accessible, and thoughtfully crafted web interfaces. With 2.5+ years of experience in React.js, I specialize in turning complex business requirements into clean, scalable frontend solutions — currently at Logicloom IT Solutions, building ERP systems for manufacturing companies.",
   availableForWork: true,
 };
 

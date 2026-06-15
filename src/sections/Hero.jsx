@@ -66,7 +66,7 @@ export default function Hero() {
               style={{ fontSize: "1.02rem", color: "var(--text-secondary)", maxWidth: 560, marginBottom: 40, lineHeight: 1.75 }}
             >
               {personal.tagline}{" "}
-              <span style={{ color: "var(--text-primary)" }}>2.8+ years building production ERP systems and web apps with React.</span>
+              <span style={{ color: "var(--text-primary)" }}>2.5+ years building production ERP systems and web apps with React.</span>
             </motion.p>
 
             {/* CTAs */}
@@ -118,7 +118,7 @@ export default function Hero() {
             <div><span style={{ color: "#c792ea" }}>const </span><span style={{ color: "#82aaff" }}>dev</span> = {'{'}</div>
             <div style={{ paddingLeft: 16 }}><span style={{ color: "#80cbc4" }}>name</span>: <span style={{ color: "#c3e88d" }}>"Rohit Bhujbal"</span>,</div>
             <div style={{ paddingLeft: 16 }}><span style={{ color: "#80cbc4" }}>role</span>: <span style={{ color: "#c3e88d" }}>"React Dev"</span>,</div>
-            <div style={{ paddingLeft: 16 }}><span style={{ color: "#80cbc4" }}>exp</span>: <span style={{ color: "#f78c6c" }}>2.8</span>, <span style={{ color: "#6b7280" }}>// years</span></div>
+            <div style={{ paddingLeft: 16 }}><span style={{ color: "#80cbc4" }}>exp</span>: <span style={{ color: "#f78c6c" }}>2.5</span>, <span style={{ color: "#6b7280" }}>// years</span></div>
             <div style={{ paddingLeft: 16 }}><span style={{ color: "#80cbc4" }}>stack</span>: [<span style={{ color: "#c3e88d" }}>"React"</span>, <span style={{ color: "#c3e88d" }}>"JS"</span>],</div>
             <div style={{ paddingLeft: 16 }}><span style={{ color: "#80cbc4" }}>open</span>: <span style={{ color: "#22c55e" }}>true</span></div>
             <div>{'}'}</div>
