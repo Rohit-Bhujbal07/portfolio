@@ -30,8 +30,8 @@ export default function Contact() {
 
   const links = [
     { icon: <FiMail size={18} />, label: "Email", value: personal.email, href: `mailto:${personal.email}` },
-    { icon: <FiLinkedin size={18} />, label: "LinkedIn", value: "linkedin.com/in/rohitbhujbal", href: personal.linkedin },
-    { icon: <FiGithub size={18} />, label: "GitHub", value: "github.com/rohitbhujbal", href: personal.github },
+    { icon: <FiLinkedin size={18} />, label: "LinkedIn", value: "https://www.linkedin.com/in/rohit-bhujbal-589811193", href: personal.linkedin },
+    { icon: <FiGithub size={18} />, label: "GitHub", value: "https://github.com/Rohit-Bhujbal07", href: personal.github },
     { icon: <FiTwitter size={18} />, label: "Twitter", value: "twitter.com/rohitbhujbal", href: personal.twitter },
   ];
 

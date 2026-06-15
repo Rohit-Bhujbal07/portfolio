@@ -5,9 +5,9 @@ import { SiReact, SiJavascript, SiTailwindcss, SiGit } from "react-icons/si";
 import { motion } from "framer-motion";
 
 const stats = [
-  { value: "2.5+", label: "Years Experience" },
+  { value: "2.8+", label: "Years Experience" },
   { value: "15+", label: "Modules Built" },
-  { value: "2", label: "Companies" },
+  { value: "1", label: "Companies" },
   { value: "100%", label: "Dedication" },
 ];
 
